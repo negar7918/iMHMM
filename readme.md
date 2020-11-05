@@ -1,3 +1,6 @@
+# Informational Mixture of Hidden Markov Models #
+
+
 The iMHMM implementation is based on the standard EM for MHMM from this paper:
 
  Pernes, D.; and Cardoso, J. S.
